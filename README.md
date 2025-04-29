@@ -1,6 +1,6 @@
-# 📊 Projeto de Análise de Vendas – Desafio Alura Data Science
+# 📊 Projeto de Análise de Vendas (Alura Store) – Challenge ONE - Data Science
 
-Este projeto é parte do desafio de Data Science da Alura. O objetivo principal é analisar os dados de vendas de quatro lojas diferentes para ajudar o Senhor João a decidir **qual loja vender** com base em múltiplos critérios de desempenho.
+Este projeto é parte do desafio de Data Science da ONE. O objetivo principal é analisar os dados de vendas de quatro lojas diferentes para ajudar o Senhor João a decidir **qual loja vender** com base em múltiplos critérios de desempenho.
 
 ---
 
@@ -88,6 +88,7 @@ Utilizando latitude e longitude, foi visualizada a distribuição geográfica da
 - **Mapa de calor** (concentração de vendas por região)
   ![image](https://github.com/user-attachments/assets/792d08fd-1b65-4956-8099-635bdb63e983)
 
+etc...
 ---
 
 ## 📌 Conclusão e Recomendação
